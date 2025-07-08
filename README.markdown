@@ -161,6 +161,3 @@ opsbot/
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-For issues or questions, open a GitHub issue or contact the maintainer at [your-email@example.com].
